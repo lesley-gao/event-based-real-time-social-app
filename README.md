@@ -44,6 +44,16 @@ The main functions of our web app include:
 
 ## UI Preview
 
+Current version: 
+
+<img src="./group-image/UI Preview.jpg" alt="live mode" />
+
+Previous version:
+
+<img src="./group-image/first-version.png" alt="live mode"/>
+
+Which one do you think is better? :smile:
+
 For the demo video, please refer to [the link here](https://drive.google.com/file/d/1gPh_QOOdHQUUjvk9EHO31aNr-AAB7clZ/view?usp=drive_link).
 
 <br/>
